@@ -1,3 +1,6 @@
+//Output Explanation: Displays a date stored in a structure with formatted output (%02d for leading zeros) and shows the total size of the structure in memory.
+//Learning: Learned how to define, initialize, and access structure members, use format specifiers in printf(), and check structure size using sizeof().
+Learning: Learned how to define, initialize, and access structure members, use format specifiers in printf(), and check structure size using sizeof().
 #include<stdio.h>
 struct date
 {
